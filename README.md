@@ -3,19 +3,19 @@ Hi, This is a multiplayer mini shooting game which is built using socket program
 
 
 <h2>Language used:</h2>
-Python
+<li>Python</li>
 
 
 <h2>Modules used:</h2>
-Pygame,
-Socket,
-pickle
+<li>Pygame</li>
+<li>Socket</li>
+<li>pickle</li>
 
 
 <h2>Requirements:</h2>
-Pygame and Python installed
+<li>Pygame and Python installed</li>
 
 
 <h2>Instructions:</h2>
-Run server.py and note the IP address of the server.
-Run client.py after updating the SERVER variable with the IP address of the server.
+<li>Run server.py and note the IP address of the server.</li>
+<li>Run client.py after updating the SERVER variable with the IP address of the server.</li>
