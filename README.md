@@ -18,4 +18,4 @@ Hi, This is a multiplayer mini shooting game which is built using socket program
 
 <h2>Instructions:</h2>
 <li>Run server.py and note the IP address of the server.</li>
-<li>Run client.py after updating the SERVER variable with the IP address of the server.</li>
+<li>Run client.py after updating the <em><strong>SERVER</strong></em> variable with the IP address of the server.</li>
